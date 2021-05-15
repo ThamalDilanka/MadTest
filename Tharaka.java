@@ -1,6 +1,6 @@
 public class Tharaka
 {  
-    public static void pyramidPattern(int n) 
+    public static void pyramidDDPattern(int n) 
     {  
         for (int i=0; i<n; i++) //outer loop for number of rows(n)
         { 
