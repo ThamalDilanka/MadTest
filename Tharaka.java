@@ -19,7 +19,7 @@ public class Tharaka
   
     public static void main(String args[]) //driver function
     { 
-        int n = 5; 
-        pyramidPattern(n); 
+        int num = 5; 
+        pyramidPattern(num); 
     } 
 }
